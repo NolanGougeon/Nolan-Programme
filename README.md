@@ -1,3 +1,3 @@
 # Nolan-Programme
 
-Voici le programme en C# permettant de charger les données d'un fichier csv dans la base de données rallye lecture.
+AlimenterBaseDeDonnees est un programme en C# en windows form permettant de manipuler la base de donnée rallyelecture que nous utilisons pour notre mini-projet.
